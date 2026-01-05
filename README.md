@@ -28,6 +28,8 @@ This is a comprehensive data analytics project combining **SQL analysis** and **
 <img width="1361" height="760" alt="image" src="https://github.com/user-attachments/assets/101620ae-0ded-4b1b-9354-5edafdf47146" />
 <img width="1335" height="746" alt="image" src="https://github.com/user-attachments/assets/1ea1748d-b6bb-4e92-aefb-689a8b5d8ca5" />
 <img width="1334" height="758" alt="image" src="https://github.com/user-attachments/assets/a01dbb46-7fb2-4590-a088-3d37833505a8" />
+<img width="1377" height="734" alt="image" src="https://github.com/user-attachments/assets/9567ac82-9255-4d16-871e-299881280335" />
+
 
 
 
@@ -607,6 +609,9 @@ Document Findings → Share Insights → Monitor Performance
 - **User-Friendly**: Intuitive navigation and filtering
 - **Mobile-Optimized**: Accessible anywhere, anytime
 - **AI-Powered**: Advanced analytics and predictions
+
+<img width="1377" height="734" alt="image" src="https://github.com/user-attachments/assets/a2508bfb-cf50-4d1c-8ca5-10d39bec65d4" />
+
 
 ## 🎯 Next Steps for Power BI Implementation
 
