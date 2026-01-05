@@ -610,7 +610,6 @@ Document Findings → Share Insights → Monitor Performance
 - **Mobile-Optimized**: Accessible anywhere, anytime
 - **AI-Powered**: Advanced analytics and predictions
 
-<img width="1377" height="734" alt="image" src="https://github.com/user-attachments/assets/a2508bfb-cf50-4d1c-8ca5-10d39bec65d4" />
 
 
 ## 🎯 Next Steps for Power BI Implementation
