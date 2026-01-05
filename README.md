@@ -707,3 +707,5 @@ Document Findings → Share Insights → Monitor Performance
 - ✅ Financial Impact Analysis
 - ✅ Strategic Recommendations
 <img width="1300" height="733" alt="image" src="https://github.com/user-attachments/assets/c37e4565-2221-45f7-bb51-9678c6f12e6e" />
+<img width="1412" height="736" alt="image" src="https://github.com/user-attachments/assets/1fb40243-5b54-48e5-ba9c-025276a39f00" />
+
