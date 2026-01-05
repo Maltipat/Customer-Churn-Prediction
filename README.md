@@ -25,6 +25,12 @@ This is a comprehensive data analytics project combining **SQL analysis** and **
 | **Analytics** | SQL + DAX | Calculated measures and KPIs |
 
 ## 📊 Power BI Integration
+<img width="1361" height="760" alt="image" src="https://github.com/user-attachments/assets/101620ae-0ded-4b1b-9354-5edafdf47146" />
+<img width="1335" height="746" alt="image" src="https://github.com/user-attachments/assets/1ea1748d-b6bb-4e92-aefb-689a8b5d8ca5" />
+<img width="1334" height="758" alt="image" src="https://github.com/user-attachments/assets/a01dbb46-7fb2-4590-a088-3d37833505a8" />
+
+
+
 
 ### Dashboard Components
 
